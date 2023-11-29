@@ -1,2 +1,2 @@
-# Construction_Demo_360_Test
-Test version 360
+# Standard Opening Template
+w/360 Image TEST Version
